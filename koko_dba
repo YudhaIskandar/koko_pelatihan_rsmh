@@ -1,2 +1,3 @@
 Create database dba;
 Create tabel rsmh;
+Alter tabel rsmh add nama varchar(25);
